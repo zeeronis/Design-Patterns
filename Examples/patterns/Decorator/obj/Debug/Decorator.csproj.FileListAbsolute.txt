@@ -1,0 +1,6 @@
+D:\П11017\Bringe\Decorator\bin\Debug\Decorator.exe.config
+D:\П11017\Bringe\Decorator\bin\Debug\Decorator.exe
+D:\П11017\Bringe\Decorator\bin\Debug\Decorator.pdb
+D:\П11017\Bringe\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\П11017\Bringe\Decorator\obj\Debug\Decorator.exe
+D:\П11017\Bringe\Decorator\obj\Debug\Decorator.pdb

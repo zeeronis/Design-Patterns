@@ -1,0 +1,6 @@
+D:\П11017\Bringe\composite\bin\Debug\composite.exe.config
+D:\П11017\Bringe\composite\bin\Debug\composite.exe
+D:\П11017\Bringe\composite\bin\Debug\composite.pdb
+D:\П11017\Bringe\composite\obj\Debug\composite.csprojResolveAssemblyReference.cache
+D:\П11017\Bringe\composite\obj\Debug\composite.exe
+D:\П11017\Bringe\composite\obj\Debug\composite.pdb

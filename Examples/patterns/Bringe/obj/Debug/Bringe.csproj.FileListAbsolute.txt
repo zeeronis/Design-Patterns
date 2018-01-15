@@ -1,0 +1,6 @@
+D:\П11017\Bringe\Bringe\bin\Debug\Bringe.exe.config
+D:\П11017\Bringe\Bringe\bin\Debug\Bringe.exe
+D:\П11017\Bringe\Bringe\bin\Debug\Bringe.pdb
+D:\П11017\Bringe\Bringe\obj\Debug\Bringe.csprojResolveAssemblyReference.cache
+D:\П11017\Bringe\Bringe\obj\Debug\Bringe.exe
+D:\П11017\Bringe\Bringe\obj\Debug\Bringe.pdb
